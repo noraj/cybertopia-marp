@@ -1,6 +1,6 @@
 # Cybertopia theme for Marp
 
-> A dark theme for [Marp](https://marp.app/) / [Marpit](https://marpit.marp.app/) slides ecosystem
+> A dark theme for [Marp](https://marp.app/) / [Marpit](https://marpit.marp.app/) slides ecosystem using the [Cybertopia Saturated](https://github.com/noraj/cybertopia-highlightjs) highlight.js theme.
 
 🗒️|📷
 ---|---
@@ -60,3 +60,7 @@ For example, on this repository:
 - Live rendering: `marp ./slides.md -s -I ./`
 - Generate HTML: `marp ./slides.md --theme-set ./themes -o index.html`
 - Generate PDF: `marp ./slides.md --theme-set ./themes --pdf --allow-local-files`
+
+## Demo
+
+Demo slideshow: https://noraj.github.io/cybertopia-marp/
