@@ -23,7 +23,7 @@ class: invert
 ### For VS Code / Code OSS / VSCodium
 
 1. You already have [Marp for VS Code](https://github.com/marp-team/marp-vscode) installed.
-2. Open VS Code settings (<kdb>CTRL</kdb> + <kdb>,</kdb>).
+2. Open VS Code settings (<kbd>CTRL</kbd> + <kbd>,</kbd>).
 3. Search `markdown.marp.themes` and clikc `Add element`.
 4. Add this link: https://raw.githubusercontent.com/noraj/cybertopia-marp/master/themes/cybertopia.css.
 
