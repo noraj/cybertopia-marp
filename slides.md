@@ -75,6 +75,9 @@ link: https://github.com/noraj
 
 > blockquote Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
+1. First item
+2. Second item
+
 ---
 
 code, Ruby
